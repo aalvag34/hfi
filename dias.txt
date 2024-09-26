@@ -1,3 +1,5 @@
 lunes
 martes
 miercoles
+jueves tarde
+viernes tarde
